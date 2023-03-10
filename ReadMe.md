@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Andri<br>I am interested in AI<br>Currently I am learning about Python and R
+My name is Andri<br>I am interested in AI<br>Currently learning about Python and R
 
 
 ## 🌐 Socials:
